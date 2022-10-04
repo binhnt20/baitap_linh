@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "633ba4629ffb0ef7a97d37b8"
+  },
+  "fullname": "Nguyễn Admin",
+  "username": "admin",
+  "password": "$2a$05$RKyGzvGpBoJjIikE.2qTW.qoG791fK..otYTFOveR1nydsbjxlizi",
+  "email": "abc",
+  "phoneNumber": "0987654321",
+  "gender": "male",
+  "avatar": "/images/img-post-3.jpg",
+  "role": "admin",
+  "allow": true,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659020896625"
+    }
+  }
+}]

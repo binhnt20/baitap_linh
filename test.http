@@ -1,0 +1,13 @@
+GET http://localhost:8808/phim/list
+
+### get slug
+GET http://localhost:8808/phim/video-demo
+
+###
+POST http://localhost:8808/login
+Content-Type: application/json
+
+{
+    "username" : "admin",
+    "password" : "amgajmg"
+}

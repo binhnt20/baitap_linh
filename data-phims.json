@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "633ba78e9ffb0ef7a97d37bf"
+  },
+  "name": "Video Demo",
+  "slug": "video-demo",
+  "thumb_url": "demo",
+  "poster_url": "demo",
+  "category": "demo",
+  "discription": "demo",
+  "year": 2022,
+  "time": 15,
+  "like": 150000,
+  "createdBy": {
+    "$oid": "633ba4629ffb0ef7a97d37b8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656241982196"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1656241982247"
+    }
+  }
+}]
